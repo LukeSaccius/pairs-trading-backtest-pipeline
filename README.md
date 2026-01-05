@@ -52,16 +52,3 @@ The strategy exhibits strong regime dependence, validating the need for rigorous
 > *Note: Detailed performance attribution, regime analysis, and PBO charts are available in the [Research Paper](./paper/Le_Reproducible_Pairs_Trading.pdf).*
 
 ---
-
-## 📂 Project Structure
-
-```text
-reproducible-pairs-trading/
-├── paper/
-│   └── Le_Reproducible_Pairs_Trading.pdf   # Full Research Report
-├── notebooks/
-│   └── main_pipeline.ipynb                 # The core monolithic notebook (Modules 1-11)
-├── src/                                    # (Optional) Modularized python scripts
-├── requirements.txt                        # Python dependencies
-├── README.md                               # This file
-└── .gitignore
